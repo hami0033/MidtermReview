@@ -1,0 +1,13 @@
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Sumof3\bin\Debug\netcoreapp3.1\Sumof3.exe
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Sumof3\bin\Debug\netcoreapp3.1\Sumof3.deps.json
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Sumof3\bin\Debug\netcoreapp3.1\Sumof3.runtimeconfig.json
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Sumof3\bin\Debug\netcoreapp3.1\Sumof3.runtimeconfig.dev.json
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Sumof3\bin\Debug\netcoreapp3.1\Sumof3.dll
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Sumof3\bin\Debug\netcoreapp3.1\Sumof3.pdb
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Sumof3\obj\Debug\netcoreapp3.1\Sumof3.AssemblyInfoInputs.cache
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Sumof3\obj\Debug\netcoreapp3.1\Sumof3.AssemblyInfo.cs
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Sumof3\obj\Debug\netcoreapp3.1\Sumof3.csproj.CoreCompileInputs.cache
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Sumof3\obj\Debug\netcoreapp3.1\Sumof3.dll
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Sumof3\obj\Debug\netcoreapp3.1\Sumof3.pdb
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Sumof3\obj\Debug\netcoreapp3.1\Sumof3.genruntimeconfig.cache
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Sumof3\obj\Debug\netcoreapp3.1\Sumof3.csprojAssemblyReference.cache

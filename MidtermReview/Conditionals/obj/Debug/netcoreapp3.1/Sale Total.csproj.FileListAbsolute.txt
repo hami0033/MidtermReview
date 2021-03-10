@@ -1,0 +1,13 @@
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Conditionals\bin\Debug\netcoreapp3.1\Sale Total.exe
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Conditionals\bin\Debug\netcoreapp3.1\Sale Total.deps.json
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Conditionals\bin\Debug\netcoreapp3.1\Sale Total.runtimeconfig.json
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Conditionals\bin\Debug\netcoreapp3.1\Sale Total.runtimeconfig.dev.json
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Conditionals\bin\Debug\netcoreapp3.1\Sale Total.dll
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Conditionals\bin\Debug\netcoreapp3.1\Sale Total.pdb
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Conditionals\obj\Debug\netcoreapp3.1\Sale Total.csprojAssemblyReference.cache
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Conditionals\obj\Debug\netcoreapp3.1\Sale Total.AssemblyInfoInputs.cache
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Conditionals\obj\Debug\netcoreapp3.1\Sale Total.AssemblyInfo.cs
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Conditionals\obj\Debug\netcoreapp3.1\Sale Total.csproj.CoreCompileInputs.cache
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Conditionals\obj\Debug\netcoreapp3.1\Sale Total.dll
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Conditionals\obj\Debug\netcoreapp3.1\Sale Total.pdb
+C:\Users\ESa195806\source\repos\MidtermReview\MidtermReview\Conditionals\obj\Debug\netcoreapp3.1\Sale Total.genruntimeconfig.cache
