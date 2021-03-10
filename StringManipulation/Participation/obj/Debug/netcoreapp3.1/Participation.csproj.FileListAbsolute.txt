@@ -1,0 +1,13 @@
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Participation\obj\Debug\netcoreapp3.1\Participation.csprojAssemblyReference.cache
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Participation\obj\Debug\netcoreapp3.1\Participation.AssemblyInfoInputs.cache
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Participation\obj\Debug\netcoreapp3.1\Participation.AssemblyInfo.cs
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Participation\obj\Debug\netcoreapp3.1\Participation.csproj.CoreCompileInputs.cache
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Participation\bin\Debug\netcoreapp3.1\Participation.exe
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Participation\bin\Debug\netcoreapp3.1\Participation.deps.json
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Participation\bin\Debug\netcoreapp3.1\Participation.runtimeconfig.json
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Participation\bin\Debug\netcoreapp3.1\Participation.runtimeconfig.dev.json
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Participation\bin\Debug\netcoreapp3.1\Participation.dll
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Participation\bin\Debug\netcoreapp3.1\Participation.pdb
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Participation\obj\Debug\netcoreapp3.1\Participation.dll
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Participation\obj\Debug\netcoreapp3.1\Participation.pdb
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Participation\obj\Debug\netcoreapp3.1\Participation.genruntimeconfig.cache

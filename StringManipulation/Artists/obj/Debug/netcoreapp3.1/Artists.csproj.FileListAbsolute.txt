@@ -1,0 +1,13 @@
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Artists\bin\Debug\netcoreapp3.1\Artists.exe
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Artists\bin\Debug\netcoreapp3.1\Artists.deps.json
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Artists\bin\Debug\netcoreapp3.1\Artists.runtimeconfig.json
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Artists\bin\Debug\netcoreapp3.1\Artists.runtimeconfig.dev.json
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Artists\bin\Debug\netcoreapp3.1\Artists.dll
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Artists\bin\Debug\netcoreapp3.1\Artists.pdb
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Artists\obj\Debug\netcoreapp3.1\Artists.csprojAssemblyReference.cache
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Artists\obj\Debug\netcoreapp3.1\Artists.AssemblyInfoInputs.cache
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Artists\obj\Debug\netcoreapp3.1\Artists.AssemblyInfo.cs
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Artists\obj\Debug\netcoreapp3.1\Artists.csproj.CoreCompileInputs.cache
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Artists\obj\Debug\netcoreapp3.1\Artists.dll
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Artists\obj\Debug\netcoreapp3.1\Artists.pdb
+C:\Users\ESa195806\source\repos\MidtermReview\StringManipulation\Artists\obj\Debug\netcoreapp3.1\Artists.genruntimeconfig.cache
